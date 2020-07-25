@@ -1,3 +1,5 @@
+<script type='text/javascript'>
+/*<![CDATA[*/
 var idBlog= "1702374306432734696";
 var idPage= "3303427968168376668"; 
 $.ajax({
@@ -23,4 +25,5 @@ $.ajax({
         }
     }
 });
-
+/*]]>*/
+</script>
